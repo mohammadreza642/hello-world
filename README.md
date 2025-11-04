@@ -38,13 +38,17 @@
 
 </div>
 
-## 🚀 پروژه‌های آینده
+## 🚀 در حال یادگیری
+
+<div align="center">
+
+![Learning](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ```javascript
-const upcomingProjects = [
-  "🎯 وب‌اپلیکیشن مدرن با Next.js",
-  "📱 اپ موبایل با React Native", 
-  "🤖 چت‌بات هوش مصنوعی",
-  "🛒 مارکت‌پلیت آنلاین",
-  "🎮 پلتفرم گیمینگ"
-];
+const currentlyLearning = {
+  frontend: "Next.js 14 + TypeScript",
+  backend: "Node.js + Microservices",
+  database: "MongoDB & PostgreSQL",
+  devops: "Docker & AWS",
+  goals: ["ساخت پروژه‌های واقعی", "شرکت در اپن سورس", "یادگیری AI/ML"]
+};
