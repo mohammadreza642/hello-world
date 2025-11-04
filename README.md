@@ -8,7 +8,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+سلام+عزیزم;+😎+من+محمدرضا+هستم;+💻+فول+استک+دولوپر;+🚀+عاشق+تکنولوژی;+🎮+گیم+باز+حرفه‌ای;+🏔️+عاشق+طبیعت;+☕+کافه+دوست+داشتنی!" />
 
-![Snake Animation](https://github.com/mohammadrez8642/mohammadrez8642/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Animation - اینو بعداً فعال می‌کنیم -->
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
